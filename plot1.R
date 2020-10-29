@@ -1,6 +1,5 @@
 ## Read in data
-
-setwd("~/R/Exploratory_Data_Analysis/Week4")
+setwd("~/R/Exploratory_Data_Analysis/Week4/Exploratory_Data_Analysis_Week4_Project2/")
 
 NEI <- readRDS("summarySCC_PM25.rds")
 SCC <- readRDS("Source_Classification_Code.rds")
